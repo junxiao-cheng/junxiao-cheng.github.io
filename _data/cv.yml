@@ -1,13 +1,123 @@
 cv:
   name: Junxiao Cheng
-  label: ""
-  email: ""
-  location: ""
+  label: "Creative Communications"
+  email: junxiao_cheng@163.com
+  phone: "(+86)18115560761"
+  location: Hong Kong
   image: ""
   summary: ""
 
   social_networks: []
 
   sections:
-    Education: []
-    Experience: []
+    Education:
+      - institution: The University of Hong Kong
+        location: Hong Kong
+        area: Creative Communications
+        studyType: Master
+        start_date: 2024-09
+        end_date: 2025-12
+        highlights:
+          - "叙事结构设计、创意实践的历史脉络、跨媒介表达，聚焦于内容战略与品牌叙事的理论及应用"
+          - "主导毕业设计，利用 AIGC 工具进行视觉再造与社交媒体传播，探索文化在数字时代的用户增长模式"
+          - "独立完成市场调研、竞品分析、用户画像与定价策略，策划线上线下整合推广方案，从 0 到 1 构建产品与品牌体系"
+
+      - institution: Xi'an Jiaotong-Liverpool University & University of Liverpool
+        location: Suzhou / Liverpool
+        area: Broadcasting & Television / Film Production
+        studyType: "Bachelor (Dual Degree)"
+        start_date: 2017-09
+        end_date: 2022-07
+        highlights:
+          - "相关课程：艺术史概论、中外电影史、语言学、语义学、新闻评论、影片制作实践、电视节目制作实践"
+          - "系统学习影视叙事、内容生产、影像语言与传媒理论，完成多项短片与节目实践"
+
+    Experience:
+      - company: Bona Film Group
+        position: AIGC Project Coordinator
+        location: Beijing, China
+        start_date: 2024-06
+        end_date: 2024-08
+        highlights:
+          - "科幻短剧项目统筹，进行传统文化 IP 内容创新；建立高效 AI 视频生产流程，组合 Midjourney、Runway、即梦等工具"
+          - "内容策略制定，基于数据反馈进行内容结构迭代与用户增长实验，打通策划、制作与发布链路"
+          - "项目成果成为首批验证 AIGC 商业可行性的案例，在抖音实现全端传播量 1.4 亿+，短剧最热榜 Top5"
+
+      - company: China Media Group (CCTV)
+        position: Program Director
+        location: Beijing, China
+        start_date: 2022-08
+        end_date: 2023-07
+        highlights:
+          - "承担央视三套《中国文艺报道》选题策划，通过行业趋势制定内容方向；策划「AI 艺术」系列前瞻性节目，将前沿技术议题转化为大众叙事"
+          - "推进多团队协作，与嘉宾、摄影及后期定制录制流程"
+          - "建立并维护与机构专家的合作，例如与国家博物馆、中央美院、荣宝斋等"
+
+      - company: Beijing TV Spring Festival Gala
+        position: Coordinator
+        location: Beijing, China
+        start_date: 2021-01
+        end_date: 2021-02
+        highlights:
+          - "快速融入项目核心团队，以目标为导向推进日常运营，每日跟进项目进度并严格把控执行节奏"
+          - "统筹对接制作团队、艺人团队等多类节目相关团队，高效开展跨团队沟通协调"
+          - "全程响应项目执行全流程各类突发问题，快速研判并制定解决方案，保障项目在高压场景下平稳推进、零失误交付"
+
+      - company: "Film \"The Sacrifice\" (金刚川)"
+        position: Director's Team Coordinator Assistant
+        location: China
+        start_date: 2020-07
+        end_date: 2020-09
+        highlights:
+          - "协同导演组创作沟通，开展剧本围读、勘景研讨等创作会议"
+          - "对接制片、摄影、服化道等全工种团队，搭建跨工种沟通协作链路，保障信息同步与工作衔接"
+          - "统筹每日拍摄计划制定，实时跟进拍摄进度与现场需求，动态优化调整计划"
+          - "完成拍摄过程中的问题记录、解决方案归档与进度统计，编制拍摄执行日报"
+
+    Volunteer:
+      - company: XJTLU Beijing Alumni Association
+        position: Vice Director, Brand Department
+        location: Beijing, China
+        start_date: 2022-06
+        end_date: 2024-09
+        highlights:
+          - "统筹 SPARK 系列访谈、校级年会等大型品牌活动全流程运营，活动整体参与满意度达 90%+"
+          - "对接长江商学院等跨机构合作方，推进跨机构业务协同与生态共建"
+          - "搭建活动运营全环节标准化流程体系，完成活动体验数据沉淀、效果分析与复盘总结"
+
+      - company: Film Club, XJTLU
+        position: Vice President
+        location: Suzhou, China
+        start_date: 2018-06
+        end_date: 2019-06
+        highlights:
+          - "统筹校级电影节等 300-600 人规模大型活动的运营执行，负责现场事务管理、进度跟进与核心数据统计"
+          - "完成活动赞助洽谈、经费管理与物料采购，实现活动成本精准把控"
+          - "完成活动后数据复盘、报告编制与资料归档，形成运营总结方案"
+
+    Skills:
+      - name: Languages
+        icon: fa-solid fa-language
+        keywords: "普通话（母语）、English（工作语言）、粤语（识听）、Français（初学）"
+
+      - name: Office & Productivity
+        icon: fa-solid fa-laptop
+        keywords: "Microsoft Office (Word/Excel/PPT)、数据统计分析、项目标准化管理、产品运营报表编制"
+
+      - name: Content Creation
+        icon: fa-solid fa-pen-nib
+        keywords: "宣传材料撰写、内容策划、影片剪辑、图片制作、AI 工具优化内容创作流程"
+
+      - name: Event Organization
+        icon: fa-solid fa-calendar-check
+        keywords: "大型文化与品牌活动统筹、全流程落地（策划-执行-复盘）、跨方需求协调、突发问题处理"
+
+    Languages:
+      - name: Mandarin
+        summary: "Native speaker"
+      - name: English
+        summary: "Working proficiency"
+      - name: Cantonese
+        summary: "Listening comprehension"
+      - name: French
+        summary: "Beginner"
