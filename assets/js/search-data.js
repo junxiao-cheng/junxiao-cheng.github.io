@@ -38,6 +38,13 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6A%75%6E%78%69%61%6F_%63%68%65%6E%67@%31%36%33.%63%6F%6D", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
