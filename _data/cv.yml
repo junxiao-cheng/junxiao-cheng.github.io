@@ -3,7 +3,7 @@ cv:
   label: "Creative Communications"
   email: junxiao_cheng@163.com
   phone: "(+86)18115560761"
-  location: Hong Kong
+  location: 香港
   image: ""
   summary: ""
 
@@ -11,9 +11,9 @@ cv:
 
   sections:
     Education:
-      - institution: The University of Hong Kong
-        location: Hong Kong
-        area: Creative Communications
+      - institution: 香港大学
+        location: 香港
+        area: 创意传播硕士
         studyType: Master
         start_date: 2024-09
         end_date: 2025-12
@@ -22,10 +22,10 @@ cv:
           - "主导毕业设计，利用 AIGC 工具进行视觉再造与社交媒体传播，探索文化在数字时代的用户增长模式"
           - "独立完成市场调研、竞品分析、用户画像与定价策略，策划线上线下整合推广方案，从 0 到 1 构建产品与品牌体系"
 
-      - institution: Xi'an Jiaotong-Liverpool University & University of Liverpool
-        location: Suzhou / Liverpool
-        area: Broadcasting & Television / Film Production
-        studyType: "Bachelor (Dual Degree)"
+      - institution: 西安交通大学利物浦大学 & 利物浦大学
+        location: 苏州 / 利物浦
+        area: 广播电视 / 电影制作
+        studyType: "学士 (双学位)"
         start_date: 2017-09
         end_date: 2022-07
         highlights:
@@ -33,9 +33,9 @@ cv:
           - "系统学习影视叙事、内容生产、影像语言与传媒理论，完成多项短片与节目实践"
 
     Experience:
-      - company: Bona Film Group
-        position: AIGC Project Coordinator
-        location: Beijing, China
+      - company: 博纳影业集团
+        position: AIGC 项目统筹
+        location: 北京
         start_date: 2024-06
         end_date: 2024-08
         highlights:
@@ -43,9 +43,9 @@ cv:
           - "内容策略制定，基于数据反馈进行内容结构迭代与用户增长实验，打通策划、制作与发布链路"
           - "项目成果成为首批验证 AIGC 商业可行性的案例，在抖音实现全端传播量 1.4 亿+，短剧最热榜 Top5"
 
-      - company: China Media Group (CCTV)
-        position: Program Director
-        location: Beijing, China
+      - company: 中央广播电视总台
+        position: 节目导演
+        location: 北京
         start_date: 2022-08
         end_date: 2023-07
         highlights:
@@ -53,9 +53,9 @@ cv:
           - "推进多团队协作，与嘉宾、摄影及后期定制录制流程"
           - "建立并维护与机构专家的合作，例如与国家博物馆、中央美院、荣宝斋等"
 
-      - company: Beijing TV Spring Festival Gala
-        position: Coordinator
-        location: Beijing, China
+      - company: 北京广播电视台春节联欢晚会
+        position: 统筹
+        location: 北京
         start_date: 2021-01
         end_date: 2021-02
         highlights:
@@ -63,9 +63,9 @@ cv:
           - "统筹对接制作团队、艺人团队等多类节目相关团队，高效开展跨团队沟通协调"
           - "全程响应项目执行全流程各类突发问题，快速研判并制定解决方案，保障项目在高压场景下平稳推进、零失误交付"
 
-      - company: "Film \"The Sacrifice\" (金刚川)"
-        position: Director's Team Coordinator Assistant
-        location: China
+      - company: 电影《金刚川》
+        position: 导演组统筹助理
+        location: 中国
         start_date: 2020-07
         end_date: 2020-09
         highlights:
@@ -75,9 +75,9 @@ cv:
           - "完成拍摄过程中的问题记录、解决方案归档与进度统计，编制拍摄执行日报"
 
     Volunteer:
-      - company: XJTLU Beijing Alumni Association
-        position: Vice Director, Brand Department
-        location: Beijing, China
+      - company: XJTLU 北京京校友会
+        position: 品牌部副部长
+        location: 北京
         start_date: 2022-06
         end_date: 2024-09
         highlights:
@@ -85,9 +85,9 @@ cv:
           - "对接长江商学院等跨机构合作方，推进跨机构业务协同与生态共建"
           - "搭建活动运营全环节标准化流程体系，完成活动体验数据沉淀、效果分析与复盘总结"
 
-      - company: Film Club, XJTLU
-        position: Vice President
-        location: Suzhou, China
+      - company: XJTLU 电影社
+        position: 副部长
+        location: 苏州
         start_date: 2018-06
         end_date: 2019-06
         highlights:
